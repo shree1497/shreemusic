@@ -1,0 +1,16 @@
+name: shreemusic
+
+description: Flutter package that helps with prototyping.
+version: 0.1.0
+author: Shreedhar Prabhu <shreedharprabhu11@gmail.com>
+homepage: https://github.com/shree1497/Fusic
+
+environment:
+  sdk: '>=1.19.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  test: ^1.5.0
